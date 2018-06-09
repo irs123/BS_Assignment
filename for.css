@@ -1,0 +1,79 @@
+
+.nbr
+{ background-color: grey !important;
+	color: blue;
+	padding: 20px;
+}
+a{
+	color: blue !important;
+	}
+.sr{
+	
+	
+	float : right !important;
+}
+ 
+.lbutton{
+	margin-left: 20%;
+}	
+
+ .cd
+{
+	margin: 5% 5% 10% 4%;
+	border-width: 2%;
+	border-color: grey;
+}
+.rbutton{
+	float:right;
+}
+.ddbutton{
+	float: right;
+}
+.crd{
+	margin: 2% 0% 4% 0%;
+	border-width: 2%;
+	border-color: grey;
+}
+.ftaw{
+	float: right;
+
+}
+.nme{
+	color: blue;
+	margin-left :2%; 
+	font-style: italic;
+}
+
+.ftaw{
+	color: blue;
+	font-size: 220% !important;
+	margin: 2% !important;
+	text-shadow: 0px 2px 2px 0px !important;
+
+}
+#viewpost{
+	text-decoration: underline;
+margin:2% 2% 2% 2%;
+	float: right !important;
+   }
+.grails{
+	float: right !important;
+	text-decoration: underline;
+   }
+ .crftaw{
+ 	float: right;
+ 	font-size: 150% !important;
+ 	margin: 1%;
+ }
+ .tfield
+ {  align-self: center;
+ 	margin-top: 6px;
+ 	margin-bottom: 6px; 
+ }
+ 
+@media only screen and (max-width: 1100px) {
+    /* For mobile phones: */
+    [class*="tfield"] {
+        width: 100%;
+    }
+}
